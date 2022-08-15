@@ -1,0 +1,55 @@
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+span{
+    letter-spacing: 1px;
+}
+
+#mobilenet{
+    letter-spacing: 2px;
+}
+
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+
+h4{
+    color: white;
+}
+.test_image_and_result1{
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1{
+    color: white;
+}
+
+b{
+    color: purple;
+}
+.google_lens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+ 
+.img{
+    width: 50%;
+    border-radius: 25px;
+    height: 30%;
+}
+
+.text_b{
+    color:red;
+}
